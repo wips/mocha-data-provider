@@ -1,0 +1,31 @@
+{
+    "name": "mocha-data-provider",
+    "version": "0.0.1",
+    "dependencies": {
+        "coffee-script": "~1.6.x"
+    },
+    "devDependencies": {
+        "grunt": "~0.4.x",
+        "grunt-contrib-watch": "~0.5.x",
+        "grunt-coffee-coverage": "~0.1.x",
+        "grunt-mocha": "~0.4.x",
+        "grunt-mocha-phantomjs": "~0.3.x",
+        "grunt-mocha-browser": "~0.0.x",
+        "load-grunt-tasks": "~0.1.x",
+        "connect-livereload": "~0.3.0",
+        "time-grunt": "~0.1.x",
+        "grunt-contrib-copy": "~0.4.x",
+        "grunt-contrib-concat": "~0.1.x",
+        "grunt-contrib-coffee": "~0.4.x",
+        "grunt-contrib-connect": "~0.1.x",
+        "grunt-contrib-clean": "~0.4.x",
+        "grunt-contrib-requirejs": "~0.4.x",
+        "grunt-scriptlinker": "~0.1.x",
+        "grunt-rev": "~0.1.x",
+        "phantomjs": "~1.9.x",
+        "chai": "~1.7.x"
+    },
+    "engines": {
+        "node": ">=0.8.0"
+    }
+}

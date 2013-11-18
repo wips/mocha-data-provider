@@ -1,0 +1,35 @@
+{
+    "name": "mocha-data-provider",
+    "version": "0.0.1",
+    "dependencies": {
+        "requirejs": "~2.1.4",
+        "mocha": "~1.12.x"
+    },
+    "devDependencies": {
+        "chai": "~1.7.x",
+        "sinonjs": "~1.7.x",
+        "sinon-chai": "~2.4.x",
+        "chai-jquery": "~1.1.x",
+        "chai-backbone": "*"
+    },
+    "homepage": "https://github.com/wips/mocha-data-provider",
+    "authors": [
+        "Viktor Molokostov <molokostov@gmail.com>"
+    ],
+    "description": "Data provider implementation for Mocha",
+    "main": "mocha-data-provider.js",
+    "keywords": [
+        "Mocha",
+        "TDD",
+        "data",
+        "provider"
+    ],
+    "license": "MIT",
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "test",
+        "tests"
+    ]
+}
